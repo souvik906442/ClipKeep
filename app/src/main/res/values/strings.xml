@@ -1,0 +1,4 @@
+<resources>
+    <string name="save_label">Save to ClipKeep</string>
+    <string name="tile_label">Save clipboard</string>
+</resources>
